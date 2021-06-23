@@ -1,0 +1,14 @@
+FirstSwitch.java
+ FirstSwitch
+DivisibleByThreeAndFive.java
+ DivisibleByThreeAndFive
+DayOfTheWeek.java
+ DayOfTheWeek
+NumberToWord.java
+ NumberToWord
+CalculateInterest.java
+ CalculateInterest
+CheckIfOdd.java
+ CheckIfOdd
+Main.java
+ Main

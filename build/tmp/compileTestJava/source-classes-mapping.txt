@@ -1,0 +1,12 @@
+FirstSwitchTest.java
+ FirstSwitchTest
+DayOfTheWeekTest.java
+ DayOfTheWeekTest
+NumberToWordTest.java
+ NumberToWordTest
+CalculateInterestTest.java
+ CalculateInterestTest
+DivisibleByThreeAndFiveTest.java
+ DivisibleByThreeAndFiveTest
+CheckIfOddTest.java
+ CheckIfOddTest
