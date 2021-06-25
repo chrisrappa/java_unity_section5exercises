@@ -21,7 +21,22 @@ public class Main {
 //    Sum Odd Exercise
     boolean isSumOdd = CheckIfOdd.sumOdd(100, 1000);
     System.out.println(isSumOdd);
+
+//    Sum Digits Challenge
+    SumOfDigits.sumDigits(456);
+
+//    Is Palindrome Exercise
+    PalindromeFinder.isPalindrome(1221);
+
+//    First and Last Digit Exercise
+    FirstAndLastDigit.sumFirstAndLastDigit(257);
+
+
+//    Sum Of Even Digits Challenge
+    SumOfDigits.sumEvenDigits(123456789);
+
+
+
   }
-
-
 }
+

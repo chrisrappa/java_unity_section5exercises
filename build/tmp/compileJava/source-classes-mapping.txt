@@ -1,14 +1,20 @@
 FirstSwitch.java
  FirstSwitch
-DivisibleByThreeAndFive.java
- DivisibleByThreeAndFive
-DayOfTheWeek.java
- DayOfTheWeek
-NumberToWord.java
- NumberToWord
 CalculateInterest.java
  CalculateInterest
+DayOfTheWeek.java
+ DayOfTheWeek
 CheckIfOdd.java
  CheckIfOdd
+FirstAndLastDigit.java
+ FirstAndLastDigit
+DivisibleByThreeAndFive.java
+ DivisibleByThreeAndFive
+NumberToWord.java
+ NumberToWord
+PalindromeFinder.java
+ PalindromeFinder
+SumOfDigits.java
+ SumOfDigits
 Main.java
  Main

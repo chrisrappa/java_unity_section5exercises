@@ -10,3 +10,9 @@ DivisibleByThreeAndFiveTest.java
  DivisibleByThreeAndFiveTest
 CheckIfOddTest.java
  CheckIfOddTest
+PalendromeFinerTest.java
+ PalindromeFinerTest
+FirstAndLastDigitTest.java
+ FirstAndLastDigitTest
+SumOfDigitsTest.java
+ SumOfDigitsTest
