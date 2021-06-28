@@ -1,18 +1,24 @@
-FirstSwitchTest.java
- FirstSwitchTest
+UserInputNumbersTest.java
+ UserInputNumbersTest
 DayOfTheWeekTest.java
  DayOfTheWeekTest
-NumberToWordTest.java
- NumberToWordTest
 CalculateInterestTest.java
  CalculateInterestTest
-DivisibleByThreeAndFiveTest.java
- DivisibleByThreeAndFiveTest
-CheckIfOddTest.java
- CheckIfOddTest
-PalendromeFinerTest.java
- PalindromeFinerTest
-FirstAndLastDigitTest.java
- FirstAndLastDigitTest
+NumberToWordTest.java
+ NumberToWordTest
+FirstSwitchTest.java
+ FirstSwitchTest
 SumOfDigitsTest.java
  SumOfDigitsTest
+WallTest.java
+ WallTest
+DivisibleByThreeAndFiveTest.java
+ DivisibleByThreeAndFiveTest
+SimpleCalculatorTest.java
+ SimpleCalculatorTest
+CheckIfOddTest.java
+ CheckIfOddTest
+FirstAndLastDigitTest.java
+ FirstAndLastDigitTest
+PalendromeFinerTest.java
+ PalindromeFinerTest

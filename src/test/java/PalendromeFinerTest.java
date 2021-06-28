@@ -10,4 +10,10 @@ class PalindromeFinerTest {
       assertEquals(expected, PalindromeFinder.isPalindrome(1221));
   }
 
+  @Test
+  void IsNotAPalendromeShouldReturnFalse() {
+      Boolean expected = false;
+      assertEquals(expected, PalindromeFinder.isPalindrome(2454));
+  }
+
 }

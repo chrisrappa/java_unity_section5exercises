@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PalindromeFinerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-06-28T18:18:40" hostname="rappac-a01.vmware.com" time="0.023">
+  <properties/>
+  <testcase name="IsNotAPalendromeShouldReturnFalse()" classname="PalindromeFinerTest" time="0.023"/>
+  <system-out><![CDATA[4542
+2454
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

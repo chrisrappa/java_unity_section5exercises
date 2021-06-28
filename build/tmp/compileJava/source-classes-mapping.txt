@@ -1,20 +1,40 @@
 FirstSwitch.java
  FirstSwitch
-CalculateInterest.java
- CalculateInterest
+BankAccount.java
+ BankAccount
+UserInputNumbers.java
+ UserInputNumbers
 DayOfTheWeek.java
  DayOfTheWeek
 CheckIfOdd.java
  CheckIfOdd
+SimpleCalculator.java
+ SimpleCalculator
 FirstAndLastDigit.java
  FirstAndLastDigit
 DivisibleByThreeAndFive.java
  DivisibleByThreeAndFive
 NumberToWord.java
  NumberToWord
-PalindromeFinder.java
- PalindromeFinder
+Constructors/Car.java
+ Constructors.Car
+CalculateInterest.java
+ CalculateInterest
 SumOfDigits.java
  SumOfDigits
+Honda.java
+ Honda
+VIPCustomer.java
+ VIPCustomer
+Wall.java
+ Wall
+Unit5ExercisesSecondHalf.java
+ Unit5ExercisesSecondHalf
 Main.java
  Main
+Constructors/Vehicle.java
+ Constructors.Vehicle
+Unit5FirstHalf.java
+ Unit5FirstHalf
+PalindromeFinder.java
+ PalindromeFinder
